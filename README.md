@@ -146,16 +146,17 @@ CSS, or Cascading Style Sheets, is a stylesheet language used to describe the pr
   
 3. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
 A class selector in CSS is a reusable tool that targets all HTML elements with a specific
+class attribute, allowing developers to apply consistent styles across multiple elements
 
-4. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
+5. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
   
-5. Universal Selector **"*"**: Selects all element  <br/>
+6. Universal Selector **"*"**: Selects all element  <br/>
    
-6. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
+7. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
 
-7. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
+8. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
 
-8. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
+9. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
  
  ➡️ **Box Model**  <br/>
