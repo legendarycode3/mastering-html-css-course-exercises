@@ -153,6 +153,7 @@ The CSS ID selector (#) is used to select and style a single, unique HTML elemen
 within a webpage based on the value of its id attribute.  </br>
   
 7. Universal Selector **"*"**: Selects all element  <br/>
+The universal selector in CSS is a special selector, denoted by an asterisk (*), that 
    
 8. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
 
