@@ -149,6 +149,7 @@ A class selector in CSS is a reusable tool that targets all HTML elements with a
 class attribute, allowing developers to apply consistent styles across multiple elements on a webpage.  </br>
 
 5. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
+The CSS ID selector (#) is used to select and style a single, unique HTML element
   
 6. Universal Selector **"*"**: Selects all element  <br/>
    
