@@ -141,6 +141,7 @@ CSS, or Cascading Style Sheets, is a stylesheet language used to describe the pr
    based on its tag name. This is the most basic type of selector and allows you to apply
    consistent styles to every occurrence of that element across a web page. </br>
    The element selector, also known as a type selector or tag name selector, matches
+   elements by their node name in the HTML document.  </br>
    
   
 3. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
