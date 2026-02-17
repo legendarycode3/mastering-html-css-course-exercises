@@ -137,6 +137,7 @@ CSS, or Cascading Style Sheets, is a stylesheet language used to describe the pr
 ➡️ **Selectors**  <br/>
 1. Element Selector **""**: Selects all instances of an element, such as p for all paragraphs. The CSS element selector selects all elements with the specified element name.The element selector uses the HTML tag name itself as the selector, like, h2 {color: blue;
   text-align: center;} <br/>
+   Is used to target all instances of a specific HTML element
   
 2. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
 
