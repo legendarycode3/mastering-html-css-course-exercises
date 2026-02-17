@@ -159,6 +159,7 @@ matches and selects every single element in the HTML document. </br>
 9. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
 CSS attribute selectors allow you to target and style HTML elements based on the
 presence or value of a specific attribute, providing a versatile way to apply styles
+without relying on additional classes or IDs. They use square brackets ([]) in the CSS syntax.  </br>
 
 
 11. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
