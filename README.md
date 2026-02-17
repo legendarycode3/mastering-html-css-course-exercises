@@ -138,18 +138,20 @@ CSS, or Cascading Style Sheets, is a stylesheet language used to describe the pr
 1. Element Selector **""**: Selects all instances of an element, such as p for all paragraphs. The CSS element selector selects all elements with the specified element name.The element selector uses the HTML tag name itself as the selector, like, h2 {color: blue;
   text-align: center;} <br/>
    Is used to target all instances of a specific HTML element
-  
-2. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
-
-3. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
-  
-4. Universal Selector **"*"**: Selects all element  <br/>
+   based on its tag name. This is the most basic type of selector and allows you to apply
    
-5. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
+  
+3. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
 
-6. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
+4. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
+  
+5. Universal Selector **"*"**: Selects all element  <br/>
+   
+6. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
 
-7. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
+7. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
+
+8. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
  
  ➡️ **Box Model**  <br/>
