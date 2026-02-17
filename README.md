@@ -146,7 +146,7 @@ CSS, or Cascading Style Sheets, is a stylesheet language used to describe the pr
   
 3. Class Selector **".class"**: Selects all elements with a specific class attribute, like, .intro { }  <br/>
 A class selector in CSS is a reusable tool that targets all HTML elements with a specific
-class attribute, allowing developers to apply consistent styles across multiple elements
+class attribute, allowing developers to apply consistent styles across multiple elements on a webpage.  </br>
 
 5. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
   
