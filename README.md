@@ -150,14 +150,15 @@ class attribute, allowing developers to apply consistent styles across multiple 
 
 5. ID Selector **"#id"**: Selects a single element with a unique ID attribute, like, #firstname { } <br/>
 The CSS ID selector (#) is used to select and style a single, unique HTML element
+within a webpage based on the value of its id attribute.  </br>
   
-6. Universal Selector **"*"**: Selects all element  <br/>
+7. Universal Selector **"*"**: Selects all element  <br/>
    
-7. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
+8. Attribute Selector **"[attribute|="value"]"**: An attribute selector in CSS is a type of selector that targets HTML elements based on the presence or value of a specific attribute, like, [attribute="value"] { /* Styles applied to elements where 'attribute' equals 'value' */ } <br/>
 
-8. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
+9. Pseudocode-Class Selector ****: A pseudo-class is a selector that selects elements that are in a specific state, for example, they are the first element of their type  <br/>
 
-9. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
+10. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
  
  ➡️ **Box Model**  <br/>
