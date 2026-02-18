@@ -174,6 +174,7 @@ itself. </br>
  A CSS pseudo-element is a keyword added to a selector that lets you style a
 specific, abstract part of the selected element(s), behaving as if you had added a
 whole new HTML element into the markup. They are denoted by a double colon (::)
+to distinguish them from pseudo-classes, which use a single colon (:) </br>
 
  
  ➡️ **Box Model**  <br/>
