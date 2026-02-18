@@ -166,6 +166,7 @@ without relying on additional classes or IDs. They use square brackets ([]) in t
 A CSS pseudo-class is a keyword, prefixed with a colon (:), added to a selector that
 lets you style an element when it is in a specific state or position, rather than based on
 its static ID or class. This allows you to apply styles dynamically, reacting to user
+interactions or the document structure, without needing to change the HTML code
 
 13. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
