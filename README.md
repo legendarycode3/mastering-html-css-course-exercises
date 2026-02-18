@@ -172,6 +172,7 @@ itself. </br>
 13. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
  A CSS pseudo-element is a keyword added to a selector that lets you style a
+specific, abstract part of the selected element(s), behaving as if you had added a
 
  
  ➡️ **Box Model**  <br/>
