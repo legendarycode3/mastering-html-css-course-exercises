@@ -166,6 +166,8 @@ without relying on additional classes or IDs. They use square brackets ([]) in t
 
 12. Pseudo-element Selector **"::"**: A CSS pseudo-element selector applies styles to specific, abstract parts of an element that are not directly represented by distinct HTML elements in the document tree, like , selector::pseudo-element-name { }
  <br/>
+ In CSS, "pseudo-selectors" is an umbrella term for two related but distinct concepts:
+
  
  ➡️ **Box Model**  <br/>
  Components of the CSS Box Model <br/>
