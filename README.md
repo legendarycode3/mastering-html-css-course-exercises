@@ -68,6 +68,7 @@ content to make it appear or act in a certain way. HTML elements are delineated 
 using angle brackets (< and >). </br>
 The closing tag is the same tag as the opening tag, preceded by a slash.
 Elements and tags aren't the exact same thing, though many people use the terms
+interchangeably. The tag name is the content in the brackets. The tag includes the brackets. </br>
 
 
 
