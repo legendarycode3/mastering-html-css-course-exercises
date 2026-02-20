@@ -58,6 +58,7 @@ The word HTML is an acronym. That is stands for Hypertext Markup Language. It is
 HTML code will be rendered by a browser and it give a human readable output. Look at the figure bellow to understand better how the HTML code convert to a website using a browser.  <br/> <br/>
 
 HTML documents are basically a tree of nodes, including HTML elements and text nodes. HTML
+elements provide the semantics and formatting for documents, including creating paragraphs, lists
 
 
 
