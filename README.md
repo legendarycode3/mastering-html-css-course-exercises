@@ -59,6 +59,7 @@ HTML code will be rendered by a browser and it give a human readable output. Loo
 
 HTML documents are basically a tree of nodes, including HTML elements and text nodes. HTML
 elements provide the semantics and formatting for documents, including creating paragraphs, lists
+and tables, and embedding images and form controls. Each element may have multiple attributes
 
 
 
