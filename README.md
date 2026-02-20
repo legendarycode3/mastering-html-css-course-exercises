@@ -61,6 +61,7 @@ HTML documents are basically a tree of nodes, including HTML elements and text n
 elements provide the semantics and formatting for documents, including creating paragraphs, lists
 and tables, and embedding images and form controls. Each element may have multiple attributes
 specified. Many elements can have content, including other elements and text. Other elements are
+empty, with the tag and attributes defining their function. </br>
 
 
 
