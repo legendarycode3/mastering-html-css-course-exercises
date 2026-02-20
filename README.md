@@ -67,6 +67,7 @@ HTML consists of a series of elements, which you use to enclose, or wrap, differ
 content to make it appear or act in a certain way. HTML elements are delineated by tags, written
 using angle brackets (< and >). </br>
 The closing tag is the same tag as the opening tag, preceded by a slash.
+Elements and tags aren't the exact same thing, though many people use the terms
 
 
 
