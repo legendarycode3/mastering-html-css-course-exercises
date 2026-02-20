@@ -63,6 +63,8 @@ and tables, and embedding images and form controls. Each element may have multip
 specified. Many elements can have content, including other elements and text. Other elements are
 empty, with the tag and attributes defining their function. </br>
 
+HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the
+
 
 
 **All "HTML" TAGS** (Note: majority Used on this Course) <br/>
