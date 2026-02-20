@@ -51,11 +51,13 @@ The backend interacts with frontend and the database using a backend programming
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Introduction To HTML** <br/>
 HTML and CSS are the foundational languages for building web pages, working together to define the structure and visual presentation of content. </br>
+
 HTML (HyperText Markup Language) was invented by Tim Berners-Lee in 1991 while he was at CERN, to help scientists share information online. Its early versions established core features like headings, paragraphs, and hyperlinks. After several versions and the creation of XHTML to align with XML, the web standard became fragmented. To address this, the W3C and WHATWG collaborated to develop HTML5, which is now the widely adopted and evolving standard for building websites and web applications. <br/>
 
 The word HTML is an acronym. That is stands for Hypertext Markup Language. It is the standard markup languages to develop websites. HTML is the build block of the web that allows building layouts of page using HTML elements. HTML is not not a programming language instead it is a markup language.
-
 HTML code will be rendered by a browser and it give a human readable output. Look at the figure bellow to understand better how the HTML code convert to a website using a browser.  <br/> <br/>
+
+HTML documents are basically a tree of nodes, including HTML elements and text nodes. HTML
 
 
 
