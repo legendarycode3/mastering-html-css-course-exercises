@@ -65,7 +65,8 @@ empty, with the tag and attributes defining their function. </br>
 
 HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the
 content to make it appear or act in a certain way. HTML elements are delineated by tags, written
-using angle brackets (< and >).
+using angle brackets (< and >). </br>
+The closing tag is the same tag as the opening tag, preceded by a slash.
 
 
 
