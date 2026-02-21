@@ -300,7 +300,7 @@ Key grid "Container / item Properties":  <br/>
 10. grid-auto-flow: The grid-auto-flow CSS property controls how the auto-placement algorithm works, specifying exactly how auto-placed items get flowed into the grid. <br/>
 
 **For the "grid item Properties"**: <br/>
-1. grid-column: A shorthand property for grid-column-start and grid-column-end.  <br/>
+1. grid-column: A shorthand property for grid-column-start and grid-column-end.  The grid-column property specifies a grid item's size and location in a grid layout, and is a shorthand property for the following properties <br/>
 
 2. grid-column-start: Specifies the starting grid line for a grid item along the column axis. <br/>
 
