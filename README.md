@@ -405,6 +405,7 @@ Key CSS "Filter Effect" Properties: <br/>
    1ii.) They enable the creation of "breakpoints," which are specific screen sizes where the layout or styling changes to better suit the device. CSS Media Queries enable web pages to adjust their layout and styles based on different screen sizes, devices, or orientations. They are essential for building responsive and adaptable web designs. <br/>
 
 Some Benefits Of Media Query: </br>
+> Apply CSS rules conditionally based on screen width or height. </br>
 
    
    Example: <br/>
