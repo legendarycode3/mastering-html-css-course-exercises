@@ -407,6 +407,7 @@ Key CSS "Filter Effect" Properties: <br/>
 Some Benefits Of Media Query: </br>
 > Apply CSS rules conditionally based on screen width or height. </br>
 > Help create responsive layouts for mobile, tablet, and desktop devices. </br>
+> Support conditions like orientation, resolution, and device type. </br>
 
    
    Example: <br/>
