@@ -403,6 +403,9 @@ Key CSS "Filter Effect" Properties: <br/>
    1i.) Media queries are a fundamental CSS feature that allows the application of different styles based on device characteristics like screen width, height, orientation, and resolution. <br/>
    
    1ii.) They enable the creation of "breakpoints," which are specific screen sizes where the layout or styling changes to better suit the device. CSS Media Queries enable web pages to adjust their layout and styles based on different screen sizes, devices, or orientations. They are essential for building responsive and adaptable web designs. <br/>
+
+Some Benefits Of Media Query: </br>
+
    
    Example: <br/>
     @media (max-width: 768px) { <br/>
@@ -412,10 +415,10 @@ Key CSS "Filter Effect" Properties: <br/>
        }  <br/>
      }  <br/>
 
-2. **Viewport Meta Tag**: <br/>
+1. **Viewport Meta Tag**: <br/>
    2i.) The meta name="viewport" tag in HTML is crucial for instructing browsers on mobile devices how to render the page, ensuring it's not scaled down to fit the entire desktop version. <br/>
    
-3. **Flexible Images and Media**: <br/>
+2. **Flexible Images and Media**: <br/>
    3i.) Images and other media should also scale responsively to prevent overflow and maintain a visually appealing layout. <br/>
    
    3ii.) Setting max-width: 100%; and height: auto; on images ensures they don't exceed their container's width and maintain their aspect ratio. <br/>
@@ -428,7 +431,7 @@ Key CSS "Filter Effect" Properties: <br/>
           height: auto;  <br/>
       } <br/>
       
-4. **Container Queries (Emerging)**: <br/>
+3. **Container Queries (Emerging)**: <br/>
     4i.) Container queries, a newer addition to CSS, allow styling elements based on the size of their parent container rather than the entire viewport. This enables more granular control over component-level responsiveness. <br/>
     
     Example: <br/>
