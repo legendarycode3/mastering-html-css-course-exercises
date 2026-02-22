@@ -409,6 +409,7 @@ Some Benefits Of Media Query: </br>
 > Help create responsive layouts for mobile, tablet, and desktop devices. </br>
 > Support conditions like orientation, resolution, and device type. </br>
 > Improve user experience across different devices. </br>
+> Media queries apply CSS rules based on device characteristics like screen width. </br>
 
    
    Example: <br/>
