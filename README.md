@@ -250,7 +250,7 @@ inline-flex. This makes all of the container's direct children into flex items, 
  3. Flex Items: The direct children of the flex container. These items will be arranged and aligned according to the Flexbox properties applied to the container and themselves. <br/>
  
 **For the "Flex Container properties"**:
-1i. flex-direction: Defines the direction of the main axis (e.g., row, row-reverse, column, column-reverse). <br/>
+1i. flex-direction: Defines the direction of the main axis (e.g., row, row-reverse, column, column-reverse). Defines the main axis and the direction (row or column) in which flex items are placed. <br/>
 
 1ii. justify-content: Aligns flex items along the main axis (e.g., flex-start, flex-end, center, space-between, space-around, space-evenly). Aligns flex items along the main axis. <br/>
 
