@@ -243,6 +243,7 @@ There are five main values for the position property: <br/>
   ➡️ **FlexBox**   <br/>
  Key 2 Concepts of Flexbox:  <br/>
  1. Flex Container: The parent element that holds the flex items. To enable Flexbox, the display property of this element is set to flex or inline-flex. <br/>
+ A flex container is created by setting the CSS display property of a parent element to
  
  2. Flex Items: The direct children of the flex container. These items will be arranged and aligned according to the Flexbox properties applied to the container and themselves. <br/>
  
