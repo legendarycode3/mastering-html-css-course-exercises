@@ -252,7 +252,7 @@ inline-flex. This makes all of the container's direct children into flex items, 
 **For the "Flex Container properties"**:
 1i. flex-direction: Defines the direction of the main axis (e.g., row, row-reverse, column, column-reverse). <br/>
 
-1ii. justify-content: Aligns flex items along the main axis (e.g., flex-start, flex-end, center, space-between, space-around, space-evenly). <br/>
+1ii. justify-content: Aligns flex items along the main axis (e.g., flex-start, flex-end, center, space-between, space-around, space-evenly). Aligns flex items along the main axis. <br/>
 
 1iii. align-items: Aligns flex items along the cross axis (e.g., flex-start, flex-end, center, baseline, stretch). <br/>
 
