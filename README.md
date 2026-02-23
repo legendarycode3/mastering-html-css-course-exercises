@@ -257,6 +257,7 @@ inline-flex. This makes all of the container's direct children into flex items, 
 1iii. align-items: Aligns flex items along the cross axis (e.g., flex-start, flex-end, center, baseline, stretch). <br/>
 
 1iv.  flex-wrap: Controls whether flex items wrap onto multiple lines (e.g., nowrap, wrap, wrap-reverse). <br/>
+Controls whether flex items are forced onto a single line or can wrap onto multiple lines. </br>
 
 1v. align-content: Aligns multiple lines of flex items along the cross axis when flex-wrap is set to wrap or wrap-reverse (e.g., flex-start, flex-end, center, space-between, space-around, stretch). <br/>
 
