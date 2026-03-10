@@ -455,6 +455,7 @@ Some Benefits Of Media Query: </br>
 CSS provides numerous properties to control and customize typography on web pages. These properties can be broadly categorized into font-related properties and text-related properties. <br/>
 CSS typography is the art and technique of styling text on a webpage to make it 
 legible, readable, and visually appealing. It is controlled using a variety of CSS
+properties that fall into two main categories: font styles and text layout styles. </br>
 
 1. **Font Properties** <br/>
 CSS font properties control the appearance of text within HTML elements. These properties can be set individually or combined using the font shorthand property. <br/>
