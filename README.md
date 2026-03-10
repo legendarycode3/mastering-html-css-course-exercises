@@ -456,7 +456,9 @@ CSS provides numerous properties to control and customize typography on web page
 CSS typography is the art and technique of styling text on a webpage to make it 
 legible, readable, and visually appealing. It is controlled using a variety of CSS
 properties that fall into two main categories: font styles and text layout styles. </br>
-Typography shapes the voice of your interface.
+Typography shapes the voice of your interface. It  Combine semantic HTML with CSS font, size, weight, and spacing utilities to craft clear, readable content. </br>
+
+
 
 1. **Font Properties** <br/>
 CSS font properties control the appearance of text within HTML elements. These properties can be set individually or combined using the font shorthand property. <br/>
